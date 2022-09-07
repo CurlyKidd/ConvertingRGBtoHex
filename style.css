@@ -1,0 +1,10 @@
+.header{
+    background-color: #808080;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:column;
+    justify-content:space-evenly;
+}
